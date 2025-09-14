@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Nguyễn Hải An</string>
+    <string name="position">Project Manager</string>
+    <string name="phone_number">+84 986 261 226</string>
+    <string name="youtube">\@annguyen4527</string>
+    <string name="vnu_mail">23020001@vnu.edu.vn</string>
+</resources>
