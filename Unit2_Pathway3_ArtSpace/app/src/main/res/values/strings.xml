@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Unit2_Pathway3_ArtSpace</string>
+    <string name="uet_artist">UET</string>
+    <string name="uet_fit_artist">UET FIT</string>
+    <string name="vnu_lic_artist">VNU LIC</string>
+    <string name="uet_title">University of Engineering and Technology</string>
+    <string name="uet_fit_title">Faculty of Information Technology - UET VNU</string>
+    <string name="vnu_lic_title">VNU LIC</string>
+    <string name="uet_year">2004</string>
+    <string name="uet_fit_year">1995</string>
+    <string name="vnu_lic_year">1997</string>
+</resources>
