@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My city</string>
+    <string name="place">Places</string>
+    <string name="recommended_place">Recommended Place</string>
+
+    <string name="back_button">Back</string>
+    <string name="cafe">Cafe</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="shoppingcenter">Shopping Center</string>
+
+    <string name="cafe1_title">Cư Xá Cà Phê</string>
+    <string name="cafe2_title">Ban Công cafe</string>
+    <string name="cafe3_title">Cup Of Tea Cafe and Bistro</string>
+    <string name="cafe4_title">Eden Coffee</string>
+    <string name="cafe5_title">Aries Rooftop Coffee</string>
+    <string name="cafe1_description">Nếu đang tìm địa chỉ quán cafe đẹp ở Hà Nội, du khách đừng bỏ qua Cư Xá Cà Phê nằm ở khu tập thể Khương Thượng. Quán là địa điểm lý tưởng dành riêng cho những ai muốn ôn lại tuổi thơ đẹp đẽ khi mọi thứ ở đây từ lối vào, cái bàn, chiếc ghế, cầu thang đến không gian đều nhỏ xinh và đầy hoài niệm.</string>
+    <string name="cafe2_description">Ban Công cafe được biết đến là quán cafe chụp ảnh đẹp ở Hà Nội mang phong cách quý tộc xưa cũ. Quán cafe đẹp ở phố cổ Hà Nội này vẫn lưu giữ được nguyên vẹn nền gạch, cầu thang gỗ, bức tường vàng bạc nhuộm màu thời gian</string>
+    <string name="cafe3_description">Cup Of Tea Cafe and Bistro là một trong những quán cafe đẹp ở Hà Nội được nhiều bạn trẻ yêu thích. Quán có không gian mở 3 tầng rộng rãi, thoáng mát với tone màu trắng chủ đạo. Cách thiết kế đơn giản, không cầu kỳ mang đến cảm giác gần gũi, ấm cúng cho thực khách.</string>
+    <string name="cafe4_description">Trong các quán cafe đẹp ở Hà Nội, Eden Coffee được nhiều người yêu thích và tìm đến dịp cuối tuần nhờ có tầm view tuyệt đẹp. Toàn bộ không gian sân thượng ngoài trời được trang trí bởi cây xanh, dàn đèn lấp lánh, khiến du khách có cảm giác như đang lạc vào một khu vườn xanh mướt.</string>
+    <string name="cafe5_description">Aries Rooftop Coffee là một trong những quán cafe đẹp ở Hà Nội sở hữu view cao cực đỉnh. Nằm ngay ngã tư Ô Chợ Dừa, Xã Đàn, Tôn Đức Thắng, Tây Sơn, quán có cả không gian ngoài trời rộng rãi với hệ thống đèn led lung linh. Từ đây, bạn có thể ngắm nhìn khung cảnh đường phố nhộn nhịp, tấp nập mỗi khi tan tầm.</string>
+
+    <string name="restaurant1_title">MIAs Restaurant</string>
+    <string name="restaurant2_title">Home Hanoi Restaurant</string>
+    <string name="restaurant3_title">Nhà Hàng Vietnamese Cuisine Restaurant</string>
+    <string name="restaurant4_title">Nhà Hàng Góc Quê Hà Nội</string>
+    <string name="restaurant5_title">Nhà Hàng Ngự Uyển Hà Nội</string>
+    <string name="restaurant1_description">MIAs Restaurant tại Solaria Hotel mang đến cho bạn một hành trình ẩm thực đầy cảm xúc, nơi bạn sẽ được thưởng thức những món ăn Việt Nam quen thuộc, được chế biến theo công thức gia truyền, như một lời nhắc nhở về hương vị quê hương ấm áp.</string>
+    <string name="restaurant2_description">Bạn có phải là một tín đồ sành ăn, luôn tìm kiếm những trải nghiệm ẩm thực độc đáo và tinh tế? Vậy thì HOME Hanoi chính là "chân ái" dành cho bạn!</string>
+    <string name="restaurant3_description">Nằm giữa đường Đinh Tiên Hoàng và phố Cầu Đi đến với Cầu Gỗ Vietnamese Cuisine Restaurant, bạn sẽ được chiêm ngưỡng toàn cảnh Hồ Gươm từ trên cao cùng với khoảng không gian ngoài trời mênh mông thơ mộng được rất nhiều du khách yêu thích.</string>
+    <string name="restaurant4_description">Nhắc đến các nhà hàng Hà Nội ngon có tiếng thì không thể quên Góc Quê - nhà hàng có điểm đặc trưng là từng món ăn sẽ có những loại nước chấm chuyên biệt.</string>
+    <string name="restaurant5_description">Ngự Uyển là nhà hàng tinh hoa ẩm thực Huế giữa lòng thủ đô với menu đa dạng, có nhiều món để lựa chọn như bún bò Huế, bánh bột lọc, bánh nậm, nem lụi, cơm Huế. Ngon nhất ở đây có lẽ chính là bún bò Huế trứ danh.</string>
+
+    <string name="shoppingcenter1_title">Trung tâm thương mại Lotte</string>
+    <string name="shoppingcenter2_title">Trung tâm thương mại Indochina Plaza</string>
+    <string name="shoppingcenter3_title">Trung tâm thương mại Hà Nội Center Point</string>
+    <string name="shoppingcenter4_title">Vincom Mega Mall Royal City</string>
+    <string name="shoppingcenter5_title">Vincom Mega Mall Ocean Park</string>
+    <string name="shoppingcenter1_description">Nhắc đến những trung tâm thương mại ở Hà Nội không thể bỏ qua tòa nhà Lotte Center – tòa tháp cao thứ hai của Hà Nội, vì vậy, đây cũng được ví như là biểu tượng của Thủ đô. Địa điểm này đáp ứng mọi nhu cầu của du khách về mua sắm, vui chơi giải trí. Mỗi tầng đều được thiết kế với phong cách khác nhau, đa dạng các quầy hàng, sản phẩm như: thời trang, mỹ phẩm, vật dụng gia đình, khu vui chơi dành cho trẻ em, hệ thống nhà hàng cao cấp</string>
+    <string name="shoppingcenter2_description">Indochina Plaza Hà Nội là trung tâm thương mại nổi tiếng ở khu vực Cầu Giấy. Tòa nhà có diện tích lên tới 18.000 m2. Các gian hàng mua sắm, vui chơi tại đây đều có mức giá bình dân, chủ yếu phục vụ đối tượng người dân trong tòa nhà và sinh viên các trường đại học lân cận. Indochina Plaza Hà Nội đáp ứng mọi nhu cầu về thời gian, ẩm thực, siêu thị kết hợp với các hoạt động giải trí, chăm sóc sức khỏe. </string>
+    <string name="shoppingcenter3_description">Hà Nội Center Point được biết đến là trung tâm mua sắm lớn nhất của khu Trung Hòa Nhân Chính, nơi bạn có thể tham quan mua sắm với hàng loạt các thương hiệu lớn nhỏ, đáp ứng nhu cầu của cả người lớn và trẻ nhỏ. Hà Nội Center Point thu hút khách du lịch bởi nhiều phân khu như: khu vui chơi trẻ em Dream Land, rạp chiếu phim đẳng cấp hàng đầu, hệ thống nhà hàng sang trọng (Hotpot Story, Thai BBQ, Hollywood).</string>
+    <string name="shoppingcenter4_description">Là một trong các trung tâm thương mại ở Hà Nội được yêu thích nhất, Vincom Mega Mall Royal City tiếp đón hàng nghìn lượt khách mỗi ngày. Ấn tượng ban đầu với du khách đó chính là cổng chào hoành tráng mang đậm phong cách châu Âu. Toàn bộ khuôn viên của trung tâm thương mại cũng được đầu tư xây dựng chuẩn MegaMall. Vincom Mega Mall Royal City đáp ứng mọi nhu cầu của du khách từ ăn uống, giải trí đến khu mua sắm, may mặc…</string>
+    <string name="shoppingcenter5_description">Nếu bạn muốn “đổi gió” với các trung tâm thương mại ở các quận ngoại thành thì có thể đến với Vincom Mega Mall Ocean Park. Đây là địa điểm mua sắm hướng đến các đối tượng trung lưu, đáp ứng mọi nhu cầu về mua sắm, giải trí, ăn uống… Đây cũng là nơi hội tụ nhiều thương hiệu nổi tiếng trên thế giới giúp bạn thoải mái lựa chọn theo nhu cầu của mình.</string>
+</resources>
