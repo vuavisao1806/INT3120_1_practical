@@ -4,7 +4,6 @@ import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
@@ -32,7 +31,7 @@ import coil.compose.AsyncImage
 import coil.request.ImageRequest
 import com.example.unit5_pathway_2_amphibians.R
 import com.example.unit5_pathway_2_amphibians.network.AmphibiansData
-import com.example.unit5_pathway_2_amphibians.ui.theme.Unit5_Pathway_2_AmphibiansTheme
+import com.example.unit5_pathway_2_amphibians.ui.theme.Unit5_Pathway2_AmphibiansTheme
 
 @Composable
 fun HomeScreen(
@@ -159,7 +158,7 @@ fun ErrorScreen(
 @Preview(showBackground = true)
 @Composable
 fun PhotosGridScreenPreview() {
-    Unit5_Pathway_2_AmphibiansTheme {
+    Unit5_Pathway2_AmphibiansTheme {
         val mockData = List(10) { AmphibiansData("$it", "", "", "") }
         AmphibiansColumnScreen(mockData)
     }
@@ -169,7 +168,7 @@ fun PhotosGridScreenPreview() {
 @Preview(showBackground = true)
 @Composable
 fun ErrorScreenPreview() {
-    Unit5_Pathway_2_AmphibiansTheme {
+    Unit5_Pathway2_AmphibiansTheme {
         ErrorScreen({})
     }
 }

@@ -252,7 +252,7 @@ val unspecified_scheme = ColorFamily(
 )
 
 @Composable
-fun Unit5_Pathway_2_AmphibiansTheme(
+fun Unit5_Pathway2_AmphibiansTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = false,
