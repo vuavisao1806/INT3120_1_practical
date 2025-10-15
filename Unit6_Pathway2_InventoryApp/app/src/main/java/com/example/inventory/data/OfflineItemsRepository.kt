@@ -1,5 +1,5 @@
-import com.example.inventory.data.Item
-import com.example.inventory.data.ItemDao
+package com.example.inventory.data
+
 import kotlinx.coroutines.flow.Flow
 
 class OfflineItemsRepository(private val itemDao: ItemDao) : ItemsRepository {
